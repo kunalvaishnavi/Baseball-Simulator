@@ -1,4 +1,5 @@
 # Baseball Simulator Project by Kunal Vaishnavi
+# Carnegie Mellon's 15-112 Course
 # See this YouTube link to learn more about my project: https://youtu.be/bbwQ6icfWzo
 
 What is this project?:
