@@ -1,0 +1,30 @@
+Timesheet by Kunal Vaishnavi
+
+Date | Hours | Description
+——————————————————————————
+8/3  |   3   | Worked on tasks for TP1 (project proposal, competitive 
+		analysis, and timesheet)
+——————————————————————————
+8/4  |   2   | Finished tasks for TP1 (mainly worked on competitive analysis 				today)
+——————————————————————————
+8/5  |   10  | Started hardcoding all values for batters and pitchers into 2 CSV files. 
+		Thought of algorithms to implement by first conducting research on 
+		already-existing ones.
+——————————————————————————
+8/6  |   15  | Finished hardcoding all values. Have decided to develop constants with 
+		statistics using recursion in order to create algorithms. Created several 
+		Python files (Batter.py, Pitcher.py, Algorithms.py, Dictionaries.py, 
+		Simulator.py). 
+——————————————————————————
+8/7  |   5   | Worked to get simulator to B-level, as stated in requirements. It can now 
+		predict results of a matchup between two teams.
+——————————————————————————
+8/8  |   15  | Worked on receiving 100% accurate box score and 100% accurate summary of 
+		scoring. Simulator now tracks the runners and moves them around 
+		accordingly. Situations such as the batter walking with runners on second 
+		and third have been accounted for. Worked on UI for the simulator (created 
+		UI.py for this).
+——————————————————————————
+8/9  |   5   | Created, edited, and uploaded to YouTube a presentation video about the 
+		simulator. Also create readme.txt, which explains my project and how to 
+		run the simulator.

@@ -1,0 +1,41 @@
+All possible outcomes:
+
+Outcome            | Probability
+————————————————————————————————
+BB                 | 5/100
+————————————————————————————————
+IBB                | 1/100
+————————————————————————————————
+HBP                | 1/100
+————————————————————————————————
+1B                 | 15/100
+————————————————————————————————
+2B                 | 10/100
+————————————————————————————————
+3B                 | 1/100
+————————————————————————————————
+HR                 | 1/100
+————————————————————————————————
+E                  | 1/100
+————————————————————————————————
+K                  | 30/100
+————————————————————————————————
+G.O.               | 20/100
+————————————————————————————————
+F.O.               | 10/100
+————————————————————————————————
+L.O.               | 5/100
+————————————————————————————————
+Total              | 100/100
+
+G.O. = Groundout
+F.O. = Flyout
+L.O. = Lineout
+
+In this game, obstructions (aka interference) and balks will not be considered as those are so rare that they cannot be predicted.
+
+For simplicity purposes, runners will not score on sacrifice flies or groundouts, there will be no fielder’s choices (therefore, no putouts), and there are no wild pitches. 
+
+There will also only be one pitcher (that is, the team’s best starting pitcher) and it’ll be assumed he can throw nine innings and an infinite number of pitches.
+
+We will also assume that all plays (including throws) with runners on base are made perfectly but only for the batter. Therefore, a groundout with a runner on base will be considered as one out and will not advance the runner. Thus on a lineout, it is assumed the runner will get back to the base.
