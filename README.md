@@ -13,7 +13,7 @@ Hit the red ‘x’ at the top left of the simulator to quit the program.
 ## Learn More
 See this YouTube [link](https://youtu.be/bbwQ6icfWzo) to learn more about my project.
 
-## A Few Notes...
+## A Few Notes
 Note 1: I am using recent data. In fact, the stats in my Excel sheet are as of Sun, Aug 6, 2017 and of the 2017 baseball season.
 
 Note 2: This is a very accurate simulator. I have spent many hours to perfect my algorithms and the results are on par with what one would expect. For example, if I choose a matchup of NYY vs. BOS, I should expect NYY to not score many runs because of how great BOS’s pitcher (Chris Sale) has been in the 2017 season. However, since this is baseball, anything out of the ordinary can occur so my algorithms take that into account. Thus, sometimes the simulator will show out-of-the-blue results and that is done on purpose.
